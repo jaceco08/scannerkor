@@ -1,0 +1,17 @@
+composer.lock
+
+writable/
+writable/debugbar/
+
+# IDE Files
+#-------------------------
+.vscode/*
+
+public/assets/DataTables
+
+
+app/Config/App.php
+app/Config/Database.php
+
+uploads
+uploads_importing
